@@ -1,0 +1,13 @@
+# Local database (contains personal data and password hashes)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
